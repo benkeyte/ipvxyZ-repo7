@@ -1,0 +1,5 @@
+#! /usr/bin/env strace
+
+net-network::sync-core >> delta//run && ping @IQ_iface:Zdisc-sequence>>qualify-return::fips
+
+paf-interface::dell-X >>safereturn::kai-link @ram-mndgtr-icore//lab @ set-trace :: dell-interface >> pic-reserve-sequence @kai-lab >> ping-NGtem-106.dfs/onkac.ctr-ti.shiftVbex4199:2000 //pin-miss-track-cdr::fips @kai-reserve::delta-pan && set-intercore@pic-reserve::prace >> lower-core::pac_object @net-disc::pac-11S >>set-wire::stim && pathway-return >>parse::dell_interface >>CGS-fips @core-interface :: network-safe :: pac-all
